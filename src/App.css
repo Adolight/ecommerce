@@ -1,0 +1,7 @@
+@import "tailwindcss";
+body {
+  background-color: lightblue; /* couleur */
+  /*background-image: url('/mon-image.jpg');  image si tu veux */
+  background-size: cover;
+  background-position: center;
+}
